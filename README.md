@@ -21,7 +21,7 @@ We splitted the train and test set with a ratio 80:20 and used 3 classic statist
 - Random Forest: 0.83
 
 #### Team Member (Last Name Alphabetically)
-- Weiqiao Shen: shenw9@uw.edu
-- Peijia Wang: @Kathy-PJ
-- Anqi Zhao: @angelazhao2552
-- Siyue Zhu: sz94@uw.edu
+- Weiqiao Shen
+- Peijia Wang
+- Anqi Zhao
+- Siyue Zhu
