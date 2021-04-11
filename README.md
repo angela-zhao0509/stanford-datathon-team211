@@ -21,7 +21,8 @@ We splitted the train and test set with a ratio 80:20 and used 3 classic statist
 - K Nearest Neighbors: 0.78
 - Random Forest: 0.83
 
-Codes can be seen in Google Colab Notebook: <a href="https://colab.research.google.com/github/angelazhao2552/stanford-datathon-team211/blob/main/SODP_Team_211.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+We also utilized the model to create an interactive input window, which is a demo for students to check their chance of admit. See more in this Colab Notebook: <a href="https://colab.research.google.com/github/angelazhao2552/stanford-datathon-team211/blob/main/SODP_Team_211.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ### Team Member (Last Name Alphabetically)
 - Weiqiao Shen
 - Peijia Wang
