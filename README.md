@@ -20,8 +20,8 @@ We splitted the train and test set with a ratio 80:20 and used 3 classic statist
 - Logistic Regression: 0.81
 - K Nearest Neighbors: 0.78
 - Random Forest: 0.83
-Codes can be seen in Google Colab Notebook: https://colab.research.google.com/drive/1eCOQcgD09tt9LRrJndUDcRDAKn2rU0X4?usp=sharing
 
+Codes can be seen in Google Colab Notebook: <a href="https://colab.research.google.com/github/angelazhao2552/stanford-datathon-team211/blob/main/SODP_Team_211.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ### Team Member (Last Name Alphabetically)
 - Weiqiao Shen
 - Peijia Wang
