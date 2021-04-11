@@ -22,6 +22,6 @@ We splitted the train and test set with a ratio 80:20 and used 3 classic statist
 
 #### Team Member (Last Name Alphabetically)
 - Weiqiao Shen: shenw9@uw.edu
-- Peijia Wang: @github/Kathy-PJ
-- Anqi Zhao: @github/angelazhao2552
+- Peijia Wang: @Kathy-PJ
+- Anqi Zhao: @angelazhao2552
 - Siyue Zhu: sz94@uw.edu
