@@ -1,5 +1,5 @@
 ## 2021 Stanford Open Datathon Project: Data Modeling Track
-Datathon information can be found here: https://datathon.stanford.edu/
+Datathon information can be found here: https://datathon.stanford.edu/ <br>
 DevPost Webpage: https://devpost.com/software/graduate-admission-chance-prediction
 
 ### Guiding Questions
