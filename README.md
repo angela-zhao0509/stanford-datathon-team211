@@ -1,7 +1,8 @@
 ## 2021 Stanford Open Datathon Project: Data Modeling Track
 Datathon information can be found here: https://datathon.stanford.edu/
+DevPost Webpage: https://devpost.com/software/graduate-admission-chance-prediction
 
-### Guiding Question
+### Guiding Questions
 - What are the factors that influence college admission? 
 - How might they correlate to each other?
 - What should we do to guide graduate applicants to improve admitted chance?
