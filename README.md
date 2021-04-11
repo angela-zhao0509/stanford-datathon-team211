@@ -1,4 +1,4 @@
-## 2021 Stanford Open Datathon Project Data Modeling
+## 2021 Stanford Open Datathon Project: Data Modeling Track
 Datathon information can be found here: https://datathon.stanford.edu/
 
 ### Guiding Question
